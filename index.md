@@ -5,4 +5,4 @@ After successfully installing it you should see the window like this:
 Then, Install openSSH.  
 After you install openSSH, try logging into the course specific account.  
 A successful login should look like this:  
-![image](https://imgur.com/3cKsUsx)  
+![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img2.png)  

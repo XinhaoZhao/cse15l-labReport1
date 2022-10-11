@@ -5,7 +5,7 @@ After successfully installing it you should see the window like this:
   
   
   
-Then, Install openSSH.  
+Then, Install openSSH. Follow this link: [install open ssh](https://github.com/PowerShell/Win32-OpenSSH)  
 After you install openSSH, try logging into the course specific account.  
 A successful login should look like this:  
 ![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img2.png?raw=true)  

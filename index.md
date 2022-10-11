@@ -9,6 +9,7 @@ Then, Install openSSH. Follow this link: [install open ssh](https://github.com/P
 After you install openSSH, try logging into the course specific account.  
 A successful login should look like this:  
 ![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img2.png?raw=true)  
+![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img2.5.png?raw=true)  
   
   
 Next, try to run some commands using ssh. For example, try `$ ls -lat`.  

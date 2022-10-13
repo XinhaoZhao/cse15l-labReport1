@@ -12,10 +12,10 @@ A successful login should look like this:
 ![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img2.5.png?raw=true)  
   
   
-Next, try to run some commands using ssh. For example, try:
+Next, try to run some commands using ssh. For example, try:  
 `$ ls`  
 `$ ls -lat`  
-`$ ls -a`
+`$ ls -a`  
 `$ cat /home/linux/ieng6/cs15lfa22/public/hello.txt`  
 You should get something similar to this:  
 ![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img3.1.png?raw=true)  

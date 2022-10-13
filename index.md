@@ -29,8 +29,7 @@ Next to make logins more convenient you want to set a ssh key. Follow the comman
 ![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img5.png?raw=true)  
 After this, follow this link [link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)  for ssh-add for windows users.  
 Finally, use `$ scp <your file path> cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys`  to move the public key to the .ssh directory created by using  
-`$  mkdir .ssh`  
-![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img3.2.png?raw=true)  
+`$  mkdir .ssh`   
 Now you should be able to login to ssh without actually entering your password
 
 Finally, to optimize ssh usage, you can type multiple commands in a single line. They will be executed in order.    

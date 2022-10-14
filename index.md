@@ -39,3 +39,6 @@ Finally, to optimize ssh usage, try logging onto ssh and also use the command "l
 ![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img7.png?raw=true)  
 As we can see, we logged in and also listed the files we have on the remote server.  
 You can also recall the last command you used using the up arrow.  
+Also, by using semicolon, we can run multiple commands in a single line, such as:  
+`$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`  
+![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img6.png?raw=true) 

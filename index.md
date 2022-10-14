@@ -35,5 +35,7 @@ Finally, use `$ scp <your file path> cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_
 Now you should be able to login to ssh without actually entering your password
 
 # **6. optimize ssh**  
-Finally, to optimize ssh usage, you can type multiple commands in a single line. They will be executed in order.    
-![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img6.png?raw=true)  
+Finally, to optimize ssh usage, try logging onto ssh and also use the command "ls" in the same line:  
+![image](https://github.com/XinhaoZhao/cse15l-labReport1/blob/main/img7.png?raw=true)  
+As we can see, we logged in and also listed the files we have on the remote server.  
+You can also recall the last command you used using the up arrow.  
